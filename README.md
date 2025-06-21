@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi there, I'm Andres Marquez  👋
 
-<!--
-**Margnark/Margnark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Tecnologo en desarrollo de sistemas informaticos**
+🧑‍🍳 **Trabajo como cocinero en USA con ganas de aprender mas y ajercer esta hermosa carrera**
+🤖 **Interesado en la seguridad informatica, IA y Phyton**
+🕶️ **Geek and Gamer empedernido**
+🎮 **Fan de la tecnologia, aprender y los videojeugos**
+🧑‍🎓 **Estudiante de de Platzi**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
