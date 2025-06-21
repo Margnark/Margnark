@@ -1,4 +1,4 @@
-## hi there, I'm Andres Marquez  👋
+## Hi there, I'm Andres Marquez  👋
 
 🎓 **Tecnologo en desarrollo de sistemas informaticos**
 
